@@ -93,6 +93,31 @@
     width: 80px;
 }
 
+.main-finish {
+    background-image: url("../images/gradient1.png"), url("../images/watch.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 1100px;
+    height: 300px;
+    margin: 0 100px 100px 100px;
+}
+
+.ami {}
+
+.main-finish-header {
+    font-size: 35px;
+    padding: 50px 70px 0;
+    color: #fff;
+    font-weight: bold;
+
+}
+
+.btn-2 {
+    margin-left: 70px;
+
+}
+
 .footer-container {
     display: flex;
     justify-content: space-between;
@@ -116,7 +141,8 @@
     color: black;
     background-color: cyan;
 }
-.last-input{
+
+.last-input {
     background-color: transparent;
     color: #fff;
     border: 2px solid #fff;
@@ -124,6 +150,4 @@
     padding: 5px 8px;
 
 }
-.footer-future{
-   
-}
+
